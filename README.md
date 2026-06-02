@@ -1,35 +1,38 @@
-100 Days of Python 🐍
+# 100 Days of Python 🐍
 
-Projects completed during Angela Yu’s 100 Days of Code Python Bootcamp.
+Projects completed during Angela Yu's 100 Days of Code Python Bootcamp.
 
-Featured Projects
+## Featured Projects
 
-Day	Project
-01	Band Name Generator
-02	Tip Calculator
-03	Treasure Island
-04	Rock Paper Scissors
-05	Password Generator
-06	Escape Maze
-07	Hangman
-08	Caesar Cipher
-09	Secret Auction
-10	Calculator
+| Day | Project |
+|-----|---------|
+| 01 | Band Name Generator |
+| 02 | Tip Calculator |
+| 03 | Treasure Island |
+| 04 | Rock Paper Scissors |
+| 05 | Password Generator |
+| 06 | Escape Maze |
+| 07 | Hangman |
+| 08 | Caesar Cipher |
+| 09 | Secret Auction |
+| 10 | Calculator |
 
-Skills Learned
+## Skills Learned
 
-* Python Fundamentals
-* Functions
-* Loops
-* Dictionaries
-* Error Handling
-* Object-Oriented Programming
-* Git & GitHub
+- Python Fundamentals
+- Functions
+- Loops
+- Dictionaries
+- Error Handling
+- Object-Oriented Programming
+- Git & GitHub
 
-Repository Structure
+## Repository Structure
 
+```text
 Day 1
 Day 2
 Day 3
 ...
 Day 100
+```
