@@ -16,6 +16,9 @@ Projects completed during Angela Yu's 100 Days of Code Python Bootcamp.
 | 08 | Caesar Cipher |
 | 09 | Secret Auction |
 | 10 | Calculator |
+| 11 | Blackjack |
+| 12 | Namespaces and Scope |
+| 13 | Higher Lower Game |
 
 ## Skills Learned
 
